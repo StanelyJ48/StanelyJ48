@@ -24,6 +24,7 @@ I'm passionate about building practical web applications, solving technical prob
 |---|---|---|
 | WattWise | Electricity Bill Estimator | [Live Demo](https://stanelyj48.github.io/Power-Bill-Estimator/) · [GitHub](https://github.com/StanelyJ48/power-bill-estimator) |
 | Portfolio | Personal Developer Portfolio | [Live Demo](https://stanelyj48.github.io/stanely-jones-portfolio/) · [GitHub](https://github.com/StanelyJ48/stanely-jones-portfolio) |
+| carepoint-hospital-demo | Hospital OPD Site | [Live Demo](https://stanelyj48.github.io/carepoint-hospital-demo/) · [GitHub](https://github.com/StanelyJ48/carepoint-hospital-demo) |
 
 ### 🤝 Connect With Me
 
